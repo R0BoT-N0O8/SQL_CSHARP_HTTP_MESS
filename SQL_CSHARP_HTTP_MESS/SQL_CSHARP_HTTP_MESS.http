@@ -1,0 +1,6 @@
+@SQL_CSHARP_HTTP_MESS_HostAddress = http://localhost:5256
+
+GET {{SQL_CSHARP_HTTP_MESS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
