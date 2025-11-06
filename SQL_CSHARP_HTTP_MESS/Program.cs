@@ -32,7 +32,7 @@ oh btw use "cd SQL_CSHARP_HTTP_MESS" before dotnet run, maibe needed idk
 
 #3 get owner's phone by pet name (GET /phone)
    - method: GET
-   - url i think: http://localhost:5256/phone?petName=itsname
+   - url i think: http://localhost:5256/phone?petName=itsname <<< replace itsname with pet name
    - result: 
      { "phoneNumber": "123-456" } (there it is omgngggg)
    - if pet not found for some reason:
